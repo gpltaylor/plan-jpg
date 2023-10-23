@@ -1,0 +1,24 @@
+# Title
+Short description with story
+
+As a <user>, When <action>, Then <outcome>
+
+## Independent
+Is there a dependency on other work in order to start and complete. 
+The team should discuss how they can make this independent.
+
+## Negotiable
+Can the team change aspects of this story? For example is this a FIXED compliance requirements, 
+or a "want" from a share holder?
+
+## Valuable
+What value is in this ticket. Why is this useful to the business or project
+
+## Estimable
+Is the team able to estimate the effort on completing this work?
+
+## Small 
+Is this small enough, can this be split into smaller tasks
+
+## Testable
+How are we going to test this

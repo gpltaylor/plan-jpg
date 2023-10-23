@@ -1,0 +1,9 @@
+GIVE <event>
+WHEN <action>
+Then <Side-Effect>
+Because <Reason>
+
+Testing Outcomes
+* Expect
+* Expect
+* Expect

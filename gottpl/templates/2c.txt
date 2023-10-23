@@ -1,0 +1,21 @@
+# 3C's 
+Short description
+
+## Card
+Depict the customer requirements in pure english and use Domain Knowledge avoiding Gherkin.
+
+## Conversation
+Discuss and understand the requirements documenting the questions and findings.
+
+### Five Why's
+To help promote dicsussion, the team can use the 5 Why's
+
+* Why
+* Why
+* Why
+* Why
+* Why
+
+## Confirmation
+Explain the acceptance criteria that will be proven by demos, interactions and testing.
+Did the confirmation match the Card?

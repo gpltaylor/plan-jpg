@@ -1,0 +1,19 @@
+tickets:
+  - id: 1
+    type: Story
+    summary: The summary of the issue
+    description: |
+      Issues 1
+      As a <type of user> 
+      WHEN I <some action>
+      THEN <some outcome>
+      BECAUSE <some reason>
+  - id: 2
+    type: Story
+    summary: The summary of the issue 2
+    description: |
+      Issues 2
+      As a <type of user> 
+      WHEN I <some action>
+      THEN <some outcome>
+      BECAUSE <some reason>

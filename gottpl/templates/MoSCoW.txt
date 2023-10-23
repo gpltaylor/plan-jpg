@@ -1,0 +1,14 @@
+# MoSCoW
+Simple description of requirements
+
+## Must Have
+What MUST the feature do
+
+## Should Have 
+What should it do
+
+## Could Have
+What could we do
+
+## Won't Have
+What it must not do/have
