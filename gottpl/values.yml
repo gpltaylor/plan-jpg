@@ -1,7 +1,7 @@
 tickets:
   - id: 1
     type: Story
-    summary: The summary of the issue
+    title: The summary of the issue.
     description: |
       Issues 1
       As a <type of user> 
@@ -10,7 +10,7 @@ tickets:
       BECAUSE <some reason>
   - id: 2
     type: Story
-    summary: The summary of the issue 2
+    title: The summary of the issue 2.
     description: |
       Issues 2
       As a <type of user> 

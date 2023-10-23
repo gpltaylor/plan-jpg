@@ -2,7 +2,7 @@
 resource "jira_issue" "ticket-{{ .id }}" {
   issue_type  = {{.type | quote}}
   project_key = var.project
-  summary     = {{.summary | quote }}
+  summary     = {{.title | quote }}
 
   // description is optional  
   description = {{.description | quote }}
